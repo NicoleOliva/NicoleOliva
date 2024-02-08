@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1 align="center">Hi, i'm <a href="https://nicoleoliva.github.io/NicoleOliva_Portfolio/index.html">Nicole Oliva</a> 👋
+<h1 align="center">Hi, i'm <a href="https://nicoleoliva.github.io/NicoleOliva_Portfolio/index.html">Nicole</a> 👋
 <div align="center">
   
 </div>
