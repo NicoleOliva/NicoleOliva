@@ -12,7 +12,7 @@
 <img src="https://github.com/NicoleOliva/NicoleOliva/blob/main/Readme.Github-01.webp">
 
 
-🤓 ## About me
+## About me 🤓
 
 Graphic and web designer...
 
@@ -24,7 +24,7 @@ get out of my comfort zone, so I started studying📚 a Master in web design
 and UX/UI design in Madrid 🇪🇦 leaving everything what I knew back to
 focus on my personal and professional 👾
 
-🖥️ ## Projects 
+## Projects 🖥️
 
 <table>
 <tr>
