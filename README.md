@@ -1,6 +1,14 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://nicoleoliva.github.io/NicoleOliva_Portfolio/index.html">Nicole Oliva</a> 👋</h1>
+  
+<h1 align="center">Hi, i'm <a href="https://nicoleoliva.github.io/NicoleOliva_Portfolio/index.html">Nicole Oliva</a> 👋
+<div align="center">
+  
 </div>
+</h1>
+
+</div>
+
+
 <img src="https://github.com/NicoleOliva/NicoleOliva/blob/main/Readme.Github-01.webp">
 
 
@@ -29,8 +37,12 @@ focus on my personal and professional 👾
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+
+</p>The project consists of the front-end development of a website that serves as a <strong>personal portfolio</strong> to showcase projects, skills and professional experience. The page will be designed to be visually appealing, easy to navigate and optimized for different devices and screen sizes.
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+
+</p>
+
 </div>
                                                                                       
 </td>
