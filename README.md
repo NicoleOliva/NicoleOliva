@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Nicole Oliva</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://nicoleoliva.github.io/NicoleOliva_Portfolio/index.html">Nicole Oliva</a> 👋</h1>
 </div>
 <img src="https://github.com/NicoleOliva/NicoleOliva/blob/main/Readme_Github-01%20copy.webp">
 
