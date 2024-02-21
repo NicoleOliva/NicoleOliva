@@ -34,7 +34,7 @@ focus on my personal and professional 👾
 <a href="https://nicoleoliva.github.io/NicoleOliva_Portfolio/about.html" target="_blank">
 <img src="https://github.com/NicoleOliva/NicoleOliva_Portfolio/blob/main/assets/portada_proyecto.png" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/NicoleOliva/NicoleOliva_Portfolio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
